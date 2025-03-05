@@ -1,0 +1,2 @@
+git remote add origin https://github.com/sino872/anton82.git
+git push -u origin main
